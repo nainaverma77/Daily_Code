@@ -11,3 +11,5 @@ jss
 today i learn express js
 ## 08-02-26
 Today I practiced moongodb
+## 09-02-2026
+today i work on my mini project
