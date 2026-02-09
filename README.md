@@ -13,3 +13,5 @@ today i learn express js
 Today I practiced moongodb
 ## 09-02-2026
 today i work on my mini project
+## 10-02-2026
+today i practiced DSA
