@@ -46,7 +46,7 @@ today i practiced DSA
 ## 27-02-2026
 today i practiced DSA
 ## 28-02-2026
-Today i practiced DSA
+Today i practiced DSA and projects
 
 
 
