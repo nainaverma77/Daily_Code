@@ -38,7 +38,7 @@ today i practiced DSA
 ## 23-02-2026
 today i practiced DSA
 ## 24-02-2026
-today i practiced DSA.G
+today i practiced DSA.
 ## 25-02-2026
 today i practiced DSA.
 ## 26-02-2026
